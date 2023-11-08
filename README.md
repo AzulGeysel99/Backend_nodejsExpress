@@ -1,2 +1,2 @@
 # Backend_nodejsExpress y tester
-Practica mvc, mongoDB, Testing supertest y jest Pruebas Unitarias y de Integración
+Practica mvc con js y ts , mongoDB, Testing supertest y jest Pruebas Unitarias y de Integración
